@@ -1,0 +1,17 @@
+{
+  "short_name": "Welcome to StyleCraze",
+  "name": "Welcome to StyleCraze-Worlds largest beauty commuinty.",
+  "icons": [
+    {
+      "src":"img/style192.png",
+      "sizes":"192x192",
+      "type":"image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#000",
+  "theme_color":"#317EFB",
+  "display": "standalone",
+  "orientation":"portrait",
+  "scope":"/"
+}
